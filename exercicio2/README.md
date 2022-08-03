@@ -19,6 +19,7 @@ const filme = {
 ```
 
 a) Qual o código para imprimir o nome do **primeiro** ator/atriz?
+ 
 
 b) Qual o código para imprimir o nome do **último** ator/atriz?
 
